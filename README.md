@@ -12,7 +12,7 @@ Factorial Calculator is a simple web application presenting a program for calcul
 
 This application was designed by Qxf2 Services.
 
-For more info about Factorial Calculator check ** [Qxf2 Services GitHub profile](https://github.com/qxf2/qa-interview-web-application/blob/master/README.md)
+For more info about Factorial Calculator check **[Qxf2 Services GitHub profile](https://github.com/qxf2/qa-interview-web-application/blob/master/README.md)**
  
 ## Documentation/Requirements
 The application has no documentation or requirements specification.
@@ -22,7 +22,7 @@ The application has no documentation or requirements specification.
 ## Launching the project and application
 The application has been hosted at:  [Factorial Calculator](https://qainterview.pythonanywhere.com)
 
-** My project:
-* [Test plan]()
+## My project:
+* [Test plan](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Test%20Plan.pdf)
 * [Reported bugs]()
 * Test report

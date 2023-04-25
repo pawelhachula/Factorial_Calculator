@@ -1,5 +1,5 @@
 # **Factorial Calculator**
-![Factorial Calculator](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Bugs%20Reports/Factorial_calculator.png)
+![Factorial Calculator](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Bugs%20Reports/Screenshots/Factorial_calculator.png)
 
 
 

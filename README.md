@@ -25,4 +25,4 @@ The application has been hosted at:**[Factorial Calculator](https://qainterview.
 ## My project:
 * [Test plan](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Test%20Plan.pdf)
 * [Reported bugs](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Bugs%20Reports/Bugs%20reports.md)
-* Test report
+* [Test report](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Test%20Report.pdf)

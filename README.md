@@ -20,9 +20,9 @@ The application has no documentation or requirements specification.
 
 
 ## Launching the project and application
-The application has been hosted at:  [Factorial Calculator](https://qainterview.pythonanywhere.com)
+The application has been hosted at:**[Factorial Calculator](https://qainterview.pythonanywhere.com)**
 
 ## My project:
 * [Test plan](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Test%20Plan.pdf)
-* [Reported bugs]()
+* [Reported bugs](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Bugs%20Reports/Bugs%20reports.md)
 * Test report

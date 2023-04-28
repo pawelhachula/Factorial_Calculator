@@ -13,7 +13,7 @@
 * [FC-11 The 'Enter' button does not work in the form](#FC-11)
 * [FC-12 Typo in the website title](#FC-12)
 * [FC-13 The copyright format is incorrect](#FC-13)
-* [FC-14 Refreshing using the browser's button is invalid](#FC-14)
+* [FC-14 Mozilla Firefox - refreshing using the browser's button is invalid](#FC-14)
 * [FC-15 Uncleared data after returning to the calculator from another page using the 'back' button](#FC-15)
 * [FC-16 No display of information about 'cookies'](#FC-16)
 
@@ -76,9 +76,9 @@
 
 ## **FC-13 The copyright format is incorrect**
 ![FC-13](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Bugs%20Reports/Screenshots/FC-13/FC-13.png)
-![attachment1](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Bugs%20Reports/Screenshots/FC-13/5qPMEDOz6n.png) width=100%>
+![attachment1](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Bugs%20Reports/Screenshots/FC-13/5qPMEDOz6n.png) 
 
-## **FC-14 Refreshing using the browser's button is invalid**
+## **FC-14 Mozilla Firefox - refreshing using the browser's button is invalid**
 ![FC-14](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Bugs%20Reports/Screenshots/FC-14/FC-14.png)
 ![attachment1](https://github.com/pawelhachula/Factorial_Calculator/blob/main/Bugs%20Reports/Screenshots/FC-14/firefox_GohkLwGrGT.gif)
 
